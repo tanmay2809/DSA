@@ -5,7 +5,7 @@ public:
 	int print2largest(int arr[], int n) {
 	    // code here
 	    int largest =arr[0];
-	    int second_largest INT_MIN;
+	    int second_largest=INT_MIN;
 	    int k=0;
 	    for(int i=1;i<n;i++)
 	    {
